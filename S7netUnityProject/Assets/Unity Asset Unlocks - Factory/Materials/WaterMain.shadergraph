@@ -706,7 +706,7 @@
     },
     "m_Name": "fill",
     "m_DefaultReferenceName": "Vector1_145d66c6c94144648eee9cfe9877e2ef",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "fill",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,

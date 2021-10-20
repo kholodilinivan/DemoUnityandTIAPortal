@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2021-10-19 17:14:17 (UTC)"
+    Runtime="SMART"
+    RtProjectName="S7netTiaProject(WaterLevelControl_pid).HMI_1[KTP900 Basic PN]"
+    RtProjectFolderName="S7netTiaProject(WaterLevelControl_pid).HMI_1[KTP900 Basic PN]"
+    DeviceType="KTP900_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="KTP900" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+</DownloadTask>

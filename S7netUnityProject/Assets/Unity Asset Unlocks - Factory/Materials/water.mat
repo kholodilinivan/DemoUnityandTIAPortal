@@ -37,6 +37,7 @@ Material:
     - Vector1_3238df74f7f24628820ea588781bdd33: 13.9
     - Vector1_6f69c8e150c3459b85fd1b93288a8466: 32.61
     - Vector1_effb154b8216465da50421dd21016dd2: 5.15
+    - fill: 0
     m_Colors:
     - Color_ec43ca52d45046299d35d3183fa96ddd: {r: 0.11826303, g: 0.26017866, b: 0.5019609,
         a: 1}
