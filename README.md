@@ -1,5 +1,5 @@
 # DemoUnityandTIAPortal
-This repository demonstrates communication between Unity 2020.3.15f2 and TIA Portal V16 by S7NetPlus library with several examples: \
+This repository demonstrates communication between Unity 2020.3.15f2 and TIA Portal V16 by S7NetPlus library with several examples: 
 - Bulbs Control \
 This scene contains 6 bulbs which can be controlled by TIA Portal with discrete and analog signals. Corresponding folders: \
 Unity Scene: S7netUnityProject/Assets/Scenes/BulbsControl \
