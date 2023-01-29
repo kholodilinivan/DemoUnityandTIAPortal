@@ -23,3 +23,11 @@ TIA Portal project: S7netTiaProject(WaterLevelControl_pid) \
 Video explanations in English - https://youtu.be/MSWk5H8TyGs \
 Video explanations in Russian - https://youtu.be/xjSxg35IXVw \
 ![Asset 1](https://user-images.githubusercontent.com/34764174/138127316-b14583bc-395c-435d-ac44-0ba7dbd92be6.png)
+
+- Robot Control \
+This scene contains Industrial Robot and conveyor which can be controlled by TIA Portal. The example below shows sorting of the red object. Corresponding folders: \
+Unity Scene: S7netUnityProject/Assets/Scenes/RobotControl \
+TIA Portal project: S7netTiaProject(RobotControl) \
+Video explanations in English - https://youtu.be/VBjyALB6ywI \
+Video explanations in Russian -  https://youtu.be/hvRAHoECfuE \
+![Asset 4](https://user-images.githubusercontent.com/34764174/215308434-1791aad0-e587-4ad0-aec7-dee78c11057b.png)
