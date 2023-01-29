@@ -1,0 +1,1269 @@
+fileFormatVersion: 2
+guid: 411540b3525c4b2448148c5afd6c4b8b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aluminum - Dark
+    100002: Aluminum - Polished
+    100004: Aluminum - Polished 1
+    100006: Aluminum - Polished 2
+    100008: //RootNode
+    100010: Blue (Sky - Bright)
+    100012: Canary
+    100014: Canary 1
+    100016: Cardboard
+    100018: Cardboard 1
+    100020: Cardboard Storage Box
+    100022: Cardboard Storage Box:1
+    100024: Chair
+    100026: Chair:1
+    100028: Chrome - Polished
+    100030: Chrome - Polished 1
+    100032: Chrome - Polished Black
+    100034: Chrome - Polished Black 1
+    100036: Chrome - Polished Black 2
+    100038: Chrome - Polished Black 3
+    100040: Chrome - Polished Black 4
+    100042: Chrome - Polished Black 5
+    100044: Clear - Amber
+    100046: Clear - Amber 1
+    100048: Clear - Amber 2
+    100050: Clear - Amber 3
+    100052: Clear - Amber 4
+    100054: Connector1
+    100056: Connector1 1
+    100058: Connector1 10
+    100060: Connector1 2
+    100062: Connector1 3
+    100064: Connector1 4
+    100066: Connector1 5
+    100068: Connector1 6
+    100070: Connector1 7
+    100072: Connector1 8
+    100074: Connector1 9
+    100076: Connector2
+    100078: Connector2 1
+    100080: Connector2 10
+    100082: Connector2 2
+    100084: Connector2 3
+    100086: Connector2 4
+    100088: Connector2 5
+    100090: Connector2 6
+    100092: Connector2 7
+    100094: Connector2 8
+    100096: Connector2 9
+    100098: Cool White
+    100100: Cool White 1
+    100102: Cool White 2
+    100104: Cool White 3
+    100106: Cool White 4
+    100108: Cool White 5
+    100110: Cool White 6
+    100112: Cool White 7
+    100114: Cool White 8
+    100116: Cyan
+    100118: Dark Gray
+    100120: Dark Gray 1
+    100122: Dark Gray 2
+    100124: Default
+    100126: Default 1
+    100128: Default 2
+    100130: Default 3
+    100132: Default 4
+    100134: Default 5
+    100136: Default 6
+    100138: Default 7
+    100140: Default 8
+    100142: Default 9
+    100144: Default Camera
+    100146: Default Camera marker
+    100148: Default Camera up
+    100150: Diamond Plate_02
+    100152: Diamond Plate_02 1
+    100154: Diamond Plate_02 2
+    100156: Diamond Plate_02 3
+    100158: Distant Light
+    100160: Distant Light (1)
+    100162: Electronic Workbench
+    100164: Electronic Workbench:1
+    100166: Engine Turned
+    100168: Fire Extinguisher
+    100170: Fire Extinguisher Sign
+    100172: Fire Extinguisher Sign:1
+    100174: Fire Extinguisher:1
+    100176: Flaked Satin - Blue
+    100178: Floor
+    100180: Floor_EAB72EDE-BFDA-428F-9704-166BA2380A60.ipt
+    100182: Glossy - Black
+    100184: Glossy - Black 1
+    100186: Glossy - Black 2
+    100188: Glossy - Black 3
+    100190: Glossy - Black 4
+    100192: Glossy - Black 5
+    100194: Glossy - Black 6
+    100196: Glossy - Black 7
+    100198: Glossy - Black 8
+    100200: Green (Clear)
+    100202: Green (Clear) 1
+    100204: Green (Clear) 2
+    100206: Green (Clear) 3
+    100208: Horizontal Curve Roller Conveyor
+    100210: Horizontal Curve Roller Conveyor:1
+    100212: Insertion Point1
+    100214: Insertion Point1 1
+    100216: Insertion Point1 10
+    100218: Insertion Point1 11
+    100220: Insertion Point1 12
+    100222: Insertion Point1 13
+    100224: Insertion Point1 14
+    100226: Insertion Point1 15
+    100228: Insertion Point1 16
+    100230: Insertion Point1 17
+    100232: Insertion Point1 18
+    100234: Insertion Point1 19
+    100236: Insertion Point1 2
+    100238: Insertion Point1 20
+    100240: Insertion Point1 21
+    100242: Insertion Point1 22
+    100244: Insertion Point1 3
+    100246: Insertion Point1 4
+    100248: Insertion Point1 5
+    100250: Insertion Point1 6
+    100252: Insertion Point1 7
+    100254: Insertion Point1 8
+    100256: Insertion Point1 9
+    100258: Insertion Point2
+    100260: Landing Surface
+    100262: Landing Surface 1
+    100264: Landing Surface 10
+    100266: Landing Surface 11
+    100268: Landing Surface 12
+    100270: Landing Surface 13
+    100272: Landing Surface 14
+    100274: Landing Surface 15
+    100276: Landing Surface 16
+    100278: Landing Surface 17
+    100280: Landing Surface 18
+    100282: Landing Surface 19
+    100284: Landing Surface 2
+    100286: Landing Surface 20
+    100288: Landing Surface 21
+    100290: Landing Surface 22
+    100292: Landing Surface 23
+    100294: Landing Surface 24
+    100296: Landing Surface 3
+    100298: Landing Surface 4
+    100300: Landing Surface 5
+    100302: Landing Surface 6
+    100304: Landing Surface 7
+    100306: Landing Surface 8
+    100308: Landing Surface 9
+    100310: Laptop
+    100312: Laptop:1
+    100314: Light Steel Blue
+    100316: Light Steel Blue 1
+    100318: Light Steel Blue 2
+    100320: Light Steel Blue 3
+    100322: Light Steel Blue 4
+    100324: Metal 1600F Hot
+    100326: Metal-1800F Hot
+    100328: Metal-Steel (Machined_00)
+    100330: No Tint
+    100332: No Tint 1
+    100334: Oil Drum
+    100336: Oil Drum:1
+    100338: Pallet
+    100340: Pallet 1
+    100342: Pallet:1
+    100344: Pallet:2
+    100346: Plastic (Black)
+    100348: Plastic (Black) 1
+    100350: Plastic (White)
+    100352: Polished - Brushed Heavy - Version 1.1
+    100354: Polished - Brushed Heavy - Version 1.1 1
+    100356: Polycarbonate - Clear
+    100358: Polycarbonate - Clear 1
+    100360: Polycarbonate - Clear 2
+    100362: Red
+    100364: Red 1
+    100366: Red 2
+    100368: Red 3
+    100370: Robot Controller
+    100372: Robot Controller:1
+    100374: Safety Fence
+    100376: Safety Fence (Turn)
+    100378: Safety Fence (Turn) 1
+    100380: Safety Fence (Turn):1
+    100382: Safety Fence (Turn):2
+    100384: Safety Fence 1
+    100386: Safety Fence 2
+    100388: Safety Fence:1
+    100390: Safety Fence:2
+    100392: Safety Fence:3
+    100394: Sink
+    100396: Sink:1
+    100398: Sky Blue Dark
+    100400: Sky Blue Dark 1
+    100402: Sky Blue Dark 2
+    100404: Sky Blue Dark 3
+    100406: Smooth - Dark Gray-1-1-1
+    100408: Smooth - Dark Gray-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+    100410: Snow
+    100412: Solid1
+    100414: Solid1 1
+    100416: Solid1 10
+    100418: Solid1 11
+    100420: Solid1 12
+    100422: Solid1 13
+    100424: Solid1 14
+    100426: Solid1 15
+    100428: Solid1 16
+    100430: Solid1 17
+    100432: Solid1 18
+    100434: Solid1 19
+    100436: Solid1 2
+    100438: Solid1 3
+    100440: Solid1 4
+    100442: Solid1 5
+    100444: Solid1 6
+    100446: Solid1 7
+    100448: Solid1 8
+    100450: Solid1 9
+    100452: Solid15
+    100454: Solid15 1
+    100456: Solid15 2
+    100458: Solid15 3
+    100460: Solid15 4
+    100462: Solid2
+    100464: Solid2 1
+    100466: Solid2 2
+    100468: Solid2 3
+    100470: Solid2 4
+    100472: Solid2 5
+    100474: Solid2 6
+    100476: Solid2 7
+    100478: Solid2 8
+    100480: Solid3
+    100482: Solid3 1
+    100484: Solid3 2
+    100486: Solid4
+    100488: Solid4 1
+    100490: Solid5
+    100492: Solid5 1
+    100494: Solid5 2
+    100496: Solid5 3
+    100498: Solid5 4
+    100500: Solid6
+    100502: Solid6 1
+    100504: Solid7
+    100506: Solid8
+    100508: Solid_DirectionDownR
+    100510: Solid_Icon
+    100512: Solid_Right
+    100514: Stainless - Satin Coarse Screen
+    100516: Stainless - Satin Coarse Screen 1
+    100518: Stainless - Satin Coarse Screen 2
+    100520: Steel
+    100522: Steel 1
+    100524: Steel 2
+    100526: Steel 3
+    100528: Steel 4
+    100530: Steel 5
+    100532: Steel 6
+    100534: Steel 7
+    100536: Steel 8
+    100538: Step Ladder
+    100540: Step Ladder:1
+    100542: Straight Belt Conveyor
+    100544: Straight Belt Conveyor:1
+    100546: Straight Roller Conveyor
+    100548: Straight Roller Conveyor 1
+    100550: Straight Roller Conveyor:2
+    100552: Straight Roller Conveyor:4
+    100554: Toilet
+    100556: Toilet:1
+    100558: Transformer Box
+    100560: Transformer Box:1
+    100562: Urinal
+    100564: Urinal 1
+    100566: Urinal 2
+    100568: Urinal:1
+    100570: Urinal:2
+    100572: Urinal:3
+    100574: Wall
+    100576: Wall (Door)
+    100578: Wall (Door) 1
+    100580: Wall (Door):1
+    100582: Wall (Door):2
+    100584: Wall (Left)
+    100586: Wall (Left) 1
+    100588: Wall (Left):1
+    100590: Wall (Left):2
+    100592: Wall (Right)
+    100594: Wall (Right) 1
+    100596: Wall (Right):1
+    100598: Wall (Right):2
+    100600: Wall (Window)
+    100602: Wall (Window):1
+    100604: Wall 1
+    100606: Wall 10
+    100608: Wall 11
+    100610: Wall 12
+    100612: Wall 13
+    100614: Wall 14
+    100616: Wall 15
+    100618: Wall 16
+    100620: Wall 17
+    100622: Wall 18
+    100624: Wall 19
+    100626: Wall 2
+    100628: Wall 20
+    100630: Wall 21
+    100632: Wall 3
+    100634: Wall 4
+    100636: Wall 5
+    100638: Wall 6
+    100640: Wall 7
+    100642: Wall 8
+    100644: Wall 9
+    100646: Wall:1
+    100648: Wall:10
+    100650: Wall:11
+    100652: Wall:12
+    100654: Wall:13
+    100656: Wall:14
+    100658: Wall:15
+    100660: Wall:16
+    100662: Wall:17
+    100664: Wall:18
+    100666: Wall:19
+    100668: Wall:2
+    100670: Wall:20
+    100672: Wall:21
+    100674: Wall:22
+    100676: Wall:23
+    100678: Wall:3
+    100680: Wall:4
+    100682: Wall:5
+    100684: Wall:6
+    100686: Wall:7
+    100688: Wall:8
+    100690: Wood (Pine)
+    100692: Wood (Pine) 1
+    100694: Yellow
+    100696: Yellow 1
+    100698: Yellow 2
+    100700: Yellow 3
+    100702: Yellow 4
+    100704: Zinc
+    400000: Aluminum - Dark
+    400002: Aluminum - Polished
+    400004: Aluminum - Polished 1
+    400006: Aluminum - Polished 2
+    400008: //RootNode
+    400010: Blue (Sky - Bright)
+    400012: Canary
+    400014: Canary 1
+    400016: Cardboard
+    400018: Cardboard 1
+    400020: Cardboard Storage Box
+    400022: Cardboard Storage Box:1
+    400024: Chair
+    400026: Chair:1
+    400028: Chrome - Polished
+    400030: Chrome - Polished 1
+    400032: Chrome - Polished Black
+    400034: Chrome - Polished Black 1
+    400036: Chrome - Polished Black 2
+    400038: Chrome - Polished Black 3
+    400040: Chrome - Polished Black 4
+    400042: Chrome - Polished Black 5
+    400044: Clear - Amber
+    400046: Clear - Amber 1
+    400048: Clear - Amber 2
+    400050: Clear - Amber 3
+    400052: Clear - Amber 4
+    400054: Connector1
+    400056: Connector1 1
+    400058: Connector1 10
+    400060: Connector1 2
+    400062: Connector1 3
+    400064: Connector1 4
+    400066: Connector1 5
+    400068: Connector1 6
+    400070: Connector1 7
+    400072: Connector1 8
+    400074: Connector1 9
+    400076: Connector2
+    400078: Connector2 1
+    400080: Connector2 10
+    400082: Connector2 2
+    400084: Connector2 3
+    400086: Connector2 4
+    400088: Connector2 5
+    400090: Connector2 6
+    400092: Connector2 7
+    400094: Connector2 8
+    400096: Connector2 9
+    400098: Cool White
+    400100: Cool White 1
+    400102: Cool White 2
+    400104: Cool White 3
+    400106: Cool White 4
+    400108: Cool White 5
+    400110: Cool White 6
+    400112: Cool White 7
+    400114: Cool White 8
+    400116: Cyan
+    400118: Dark Gray
+    400120: Dark Gray 1
+    400122: Dark Gray 2
+    400124: Default
+    400126: Default 1
+    400128: Default 2
+    400130: Default 3
+    400132: Default 4
+    400134: Default 5
+    400136: Default 6
+    400138: Default 7
+    400140: Default 8
+    400142: Default 9
+    400144: Default Camera
+    400146: Default Camera marker
+    400148: Default Camera up
+    400150: Diamond Plate_02
+    400152: Diamond Plate_02 1
+    400154: Diamond Plate_02 2
+    400156: Diamond Plate_02 3
+    400158: Distant Light
+    400160: Distant Light (1)
+    400162: Electronic Workbench
+    400164: Electronic Workbench:1
+    400166: Engine Turned
+    400168: Fire Extinguisher
+    400170: Fire Extinguisher Sign
+    400172: Fire Extinguisher Sign:1
+    400174: Fire Extinguisher:1
+    400176: Flaked Satin - Blue
+    400178: Floor
+    400180: Floor_EAB72EDE-BFDA-428F-9704-166BA2380A60.ipt
+    400182: Glossy - Black
+    400184: Glossy - Black 1
+    400186: Glossy - Black 2
+    400188: Glossy - Black 3
+    400190: Glossy - Black 4
+    400192: Glossy - Black 5
+    400194: Glossy - Black 6
+    400196: Glossy - Black 7
+    400198: Glossy - Black 8
+    400200: Green (Clear)
+    400202: Green (Clear) 1
+    400204: Green (Clear) 2
+    400206: Green (Clear) 3
+    400208: Horizontal Curve Roller Conveyor
+    400210: Horizontal Curve Roller Conveyor:1
+    400212: Insertion Point1
+    400214: Insertion Point1 1
+    400216: Insertion Point1 10
+    400218: Insertion Point1 11
+    400220: Insertion Point1 12
+    400222: Insertion Point1 13
+    400224: Insertion Point1 14
+    400226: Insertion Point1 15
+    400228: Insertion Point1 16
+    400230: Insertion Point1 17
+    400232: Insertion Point1 18
+    400234: Insertion Point1 19
+    400236: Insertion Point1 2
+    400238: Insertion Point1 20
+    400240: Insertion Point1 21
+    400242: Insertion Point1 22
+    400244: Insertion Point1 3
+    400246: Insertion Point1 4
+    400248: Insertion Point1 5
+    400250: Insertion Point1 6
+    400252: Insertion Point1 7
+    400254: Insertion Point1 8
+    400256: Insertion Point1 9
+    400258: Insertion Point2
+    400260: Landing Surface
+    400262: Landing Surface 1
+    400264: Landing Surface 10
+    400266: Landing Surface 11
+    400268: Landing Surface 12
+    400270: Landing Surface 13
+    400272: Landing Surface 14
+    400274: Landing Surface 15
+    400276: Landing Surface 16
+    400278: Landing Surface 17
+    400280: Landing Surface 18
+    400282: Landing Surface 19
+    400284: Landing Surface 2
+    400286: Landing Surface 20
+    400288: Landing Surface 21
+    400290: Landing Surface 22
+    400292: Landing Surface 23
+    400294: Landing Surface 24
+    400296: Landing Surface 3
+    400298: Landing Surface 4
+    400300: Landing Surface 5
+    400302: Landing Surface 6
+    400304: Landing Surface 7
+    400306: Landing Surface 8
+    400308: Landing Surface 9
+    400310: Laptop
+    400312: Laptop:1
+    400314: Light Steel Blue
+    400316: Light Steel Blue 1
+    400318: Light Steel Blue 2
+    400320: Light Steel Blue 3
+    400322: Light Steel Blue 4
+    400324: Metal 1600F Hot
+    400326: Metal-1800F Hot
+    400328: Metal-Steel (Machined_00)
+    400330: No Tint
+    400332: No Tint 1
+    400334: Oil Drum
+    400336: Oil Drum:1
+    400338: Pallet
+    400340: Pallet 1
+    400342: Pallet:1
+    400344: Pallet:2
+    400346: Plastic (Black)
+    400348: Plastic (Black) 1
+    400350: Plastic (White)
+    400352: Polished - Brushed Heavy - Version 1.1
+    400354: Polished - Brushed Heavy - Version 1.1 1
+    400356: Polycarbonate - Clear
+    400358: Polycarbonate - Clear 1
+    400360: Polycarbonate - Clear 2
+    400362: Red
+    400364: Red 1
+    400366: Red 2
+    400368: Red 3
+    400370: Robot Controller
+    400372: Robot Controller:1
+    400374: Safety Fence
+    400376: Safety Fence (Turn)
+    400378: Safety Fence (Turn) 1
+    400380: Safety Fence (Turn):1
+    400382: Safety Fence (Turn):2
+    400384: Safety Fence 1
+    400386: Safety Fence 2
+    400388: Safety Fence:1
+    400390: Safety Fence:2
+    400392: Safety Fence:3
+    400394: Sink
+    400396: Sink:1
+    400398: Sky Blue Dark
+    400400: Sky Blue Dark 1
+    400402: Sky Blue Dark 2
+    400404: Sky Blue Dark 3
+    400406: Smooth - Dark Gray-1-1-1
+    400408: Smooth - Dark Gray-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+    400410: Snow
+    400412: Solid1
+    400414: Solid1 1
+    400416: Solid1 10
+    400418: Solid1 11
+    400420: Solid1 12
+    400422: Solid1 13
+    400424: Solid1 14
+    400426: Solid1 15
+    400428: Solid1 16
+    400430: Solid1 17
+    400432: Solid1 18
+    400434: Solid1 19
+    400436: Solid1 2
+    400438: Solid1 3
+    400440: Solid1 4
+    400442: Solid1 5
+    400444: Solid1 6
+    400446: Solid1 7
+    400448: Solid1 8
+    400450: Solid1 9
+    400452: Solid15
+    400454: Solid15 1
+    400456: Solid15 2
+    400458: Solid15 3
+    400460: Solid15 4
+    400462: Solid2
+    400464: Solid2 1
+    400466: Solid2 2
+    400468: Solid2 3
+    400470: Solid2 4
+    400472: Solid2 5
+    400474: Solid2 6
+    400476: Solid2 7
+    400478: Solid2 8
+    400480: Solid3
+    400482: Solid3 1
+    400484: Solid3 2
+    400486: Solid4
+    400488: Solid4 1
+    400490: Solid5
+    400492: Solid5 1
+    400494: Solid5 2
+    400496: Solid5 3
+    400498: Solid5 4
+    400500: Solid6
+    400502: Solid6 1
+    400504: Solid7
+    400506: Solid8
+    400508: Solid_DirectionDownR
+    400510: Solid_Icon
+    400512: Solid_Right
+    400514: Stainless - Satin Coarse Screen
+    400516: Stainless - Satin Coarse Screen 1
+    400518: Stainless - Satin Coarse Screen 2
+    400520: Steel
+    400522: Steel 1
+    400524: Steel 2
+    400526: Steel 3
+    400528: Steel 4
+    400530: Steel 5
+    400532: Steel 6
+    400534: Steel 7
+    400536: Steel 8
+    400538: Step Ladder
+    400540: Step Ladder:1
+    400542: Straight Belt Conveyor
+    400544: Straight Belt Conveyor:1
+    400546: Straight Roller Conveyor
+    400548: Straight Roller Conveyor 1
+    400550: Straight Roller Conveyor:2
+    400552: Straight Roller Conveyor:4
+    400554: Toilet
+    400556: Toilet:1
+    400558: Transformer Box
+    400560: Transformer Box:1
+    400562: Urinal
+    400564: Urinal 1
+    400566: Urinal 2
+    400568: Urinal:1
+    400570: Urinal:2
+    400572: Urinal:3
+    400574: Wall
+    400576: Wall (Door)
+    400578: Wall (Door) 1
+    400580: Wall (Door):1
+    400582: Wall (Door):2
+    400584: Wall (Left)
+    400586: Wall (Left) 1
+    400588: Wall (Left):1
+    400590: Wall (Left):2
+    400592: Wall (Right)
+    400594: Wall (Right) 1
+    400596: Wall (Right):1
+    400598: Wall (Right):2
+    400600: Wall (Window)
+    400602: Wall (Window):1
+    400604: Wall 1
+    400606: Wall 10
+    400608: Wall 11
+    400610: Wall 12
+    400612: Wall 13
+    400614: Wall 14
+    400616: Wall 15
+    400618: Wall 16
+    400620: Wall 17
+    400622: Wall 18
+    400624: Wall 19
+    400626: Wall 2
+    400628: Wall 20
+    400630: Wall 21
+    400632: Wall 3
+    400634: Wall 4
+    400636: Wall 5
+    400638: Wall 6
+    400640: Wall 7
+    400642: Wall 8
+    400644: Wall 9
+    400646: Wall:1
+    400648: Wall:10
+    400650: Wall:11
+    400652: Wall:12
+    400654: Wall:13
+    400656: Wall:14
+    400658: Wall:15
+    400660: Wall:16
+    400662: Wall:17
+    400664: Wall:18
+    400666: Wall:19
+    400668: Wall:2
+    400670: Wall:20
+    400672: Wall:21
+    400674: Wall:22
+    400676: Wall:23
+    400678: Wall:3
+    400680: Wall:4
+    400682: Wall:5
+    400684: Wall:6
+    400686: Wall:7
+    400688: Wall:8
+    400690: Wood (Pine)
+    400692: Wood (Pine) 1
+    400694: Yellow
+    400696: Yellow 1
+    400698: Yellow 2
+    400700: Yellow 3
+    400702: Yellow 4
+    400704: Zinc
+    2000000: Default Camera
+    2100000: Exposed Aggregate - Coarse
+    2100002: White Oak - Solid Stained Light No Gloss
+    2100004: Aluminum - Polished
+    2100006: Diamond Plate_02
+    2100008: Green (Clear)
+    2100010: Polished - Brushed Heavy - Version 1.1
+    2100012: Sky Blue Dark
+    2100014: Yellow
+    2100016: Stainless - Satin Coarse Screen
+    2100018: Smooth - Dark Gray-1-1-1
+    2100020: Canary
+    2100022: Clear - Amber
+    2100024: Default
+    2100026: Steel
+    2100028: Glossy - Black
+    2100030: Snow
+    2100032: Flaked Satin - Blue
+    2100034: Red
+    2100036: Cardboard
+    2100038: Plastic (White)
+    2100040: Cool White
+    2100042: Dark Gray
+    2100044: Aluminum - Dark
+    2100046: Chrome - Polished Black
+    2100048: Cyan
+    2100050: Metal-Steel (Machined_00)
+    2100052: Plastic (Black)
+    2100054: Smooth - Dark Gray-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+    2100056: Zinc
+    2100058: Chrome - Polished
+    2100060: Polycarbonate - Clear
+    2100062: Light Steel Blue
+    2100064: No Tint
+    2100066: Metal 1600F Hot
+    2100068: Wood (Pine)
+    2100070: Blue (Sky - Bright)
+    2100072: Metal-1800F Hot
+    2100074: Engine Turned
+    2300000: Aluminum - Dark
+    2300002: Aluminum - Polished
+    2300004: Aluminum - Polished 1
+    2300006: Aluminum - Polished 2
+    2300008: Blue (Sky - Bright)
+    2300010: Canary
+    2300012: Canary 1
+    2300014: Cardboard
+    2300016: Cardboard 1
+    2300018: Chrome - Polished
+    2300020: Chrome - Polished 1
+    2300022: Chrome - Polished Black
+    2300024: Chrome - Polished Black 1
+    2300026: Chrome - Polished Black 2
+    2300028: Chrome - Polished Black 3
+    2300030: Chrome - Polished Black 4
+    2300032: Chrome - Polished Black 5
+    2300034: Clear - Amber
+    2300036: Clear - Amber 1
+    2300038: Clear - Amber 2
+    2300040: Clear - Amber 3
+    2300042: Clear - Amber 4
+    2300044: Cool White
+    2300046: Cool White 1
+    2300048: Cool White 2
+    2300050: Cool White 3
+    2300052: Cool White 4
+    2300054: Cool White 5
+    2300056: Cool White 6
+    2300058: Cool White 7
+    2300060: Cool White 8
+    2300062: Cyan
+    2300064: Dark Gray
+    2300066: Dark Gray 1
+    2300068: Dark Gray 2
+    2300070: Default
+    2300072: Default 1
+    2300074: Default 2
+    2300076: Default 3
+    2300078: Default 4
+    2300080: Default 5
+    2300082: Default 6
+    2300084: Default 7
+    2300086: Default 8
+    2300088: Default 9
+    2300090: Diamond Plate_02
+    2300092: Diamond Plate_02 1
+    2300094: Diamond Plate_02 2
+    2300096: Diamond Plate_02 3
+    2300098: Engine Turned
+    2300100: Flaked Satin - Blue
+    2300102: Floor_EAB72EDE-BFDA-428F-9704-166BA2380A60.ipt
+    2300104: Glossy - Black
+    2300106: Glossy - Black 1
+    2300108: Glossy - Black 2
+    2300110: Glossy - Black 3
+    2300112: Glossy - Black 4
+    2300114: Glossy - Black 5
+    2300116: Glossy - Black 6
+    2300118: Glossy - Black 7
+    2300120: Glossy - Black 8
+    2300122: Green (Clear)
+    2300124: Green (Clear) 1
+    2300126: Green (Clear) 2
+    2300128: Green (Clear) 3
+    2300130: Light Steel Blue
+    2300132: Light Steel Blue 1
+    2300134: Light Steel Blue 2
+    2300136: Light Steel Blue 3
+    2300138: Light Steel Blue 4
+    2300140: Metal 1600F Hot
+    2300142: Metal-1800F Hot
+    2300144: Metal-Steel (Machined_00)
+    2300146: No Tint
+    2300148: No Tint 1
+    2300150: Pallet
+    2300152: Pallet 1
+    2300154: Plastic (Black)
+    2300156: Plastic (Black) 1
+    2300158: Plastic (White)
+    2300160: Polished - Brushed Heavy - Version 1.1
+    2300162: Polished - Brushed Heavy - Version 1.1 1
+    2300164: Polycarbonate - Clear
+    2300166: Polycarbonate - Clear 1
+    2300168: Polycarbonate - Clear 2
+    2300170: Red
+    2300172: Red 1
+    2300174: Red 2
+    2300176: Red 3
+    2300178: Sink
+    2300180: Sky Blue Dark
+    2300182: Sky Blue Dark 1
+    2300184: Sky Blue Dark 2
+    2300186: Sky Blue Dark 3
+    2300188: Smooth - Dark Gray-1-1-1
+    2300190: Smooth - Dark Gray-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+    2300192: Snow
+    2300194: Stainless - Satin Coarse Screen
+    2300196: Stainless - Satin Coarse Screen 1
+    2300198: Stainless - Satin Coarse Screen 2
+    2300200: Steel
+    2300202: Steel 1
+    2300204: Steel 2
+    2300206: Steel 3
+    2300208: Steel 4
+    2300210: Steel 5
+    2300212: Steel 6
+    2300214: Steel 7
+    2300216: Steel 8
+    2300218: Wall
+    2300220: Wall (Left)
+    2300222: Wall (Left) 1
+    2300224: Wall (Right)
+    2300226: Wall (Right) 1
+    2300228: Wall (Window)
+    2300230: Wall 1
+    2300232: Wall 10
+    2300234: Wall 11
+    2300236: Wall 12
+    2300238: Wall 13
+    2300240: Wall 14
+    2300242: Wall 15
+    2300244: Wall 16
+    2300246: Wall 17
+    2300248: Wall 18
+    2300250: Wall 19
+    2300252: Wall 2
+    2300254: Wall 20
+    2300256: Wall 21
+    2300258: Wall 3
+    2300260: Wall 4
+    2300262: Wall 5
+    2300264: Wall 6
+    2300266: Wall 7
+    2300268: Wall 8
+    2300270: Wall 9
+    2300272: Wood (Pine)
+    2300274: Wood (Pine) 1
+    2300276: Yellow
+    2300278: Yellow 1
+    2300280: Yellow 2
+    2300282: Yellow 3
+    2300284: Yellow 4
+    2300286: Zinc
+    3300000: Aluminum - Dark
+    3300002: Aluminum - Polished
+    3300004: Aluminum - Polished 1
+    3300006: Aluminum - Polished 2
+    3300008: Blue (Sky - Bright)
+    3300010: Canary
+    3300012: Canary 1
+    3300014: Cardboard
+    3300016: Cardboard 1
+    3300018: Chrome - Polished
+    3300020: Chrome - Polished 1
+    3300022: Chrome - Polished Black
+    3300024: Chrome - Polished Black 1
+    3300026: Chrome - Polished Black 2
+    3300028: Chrome - Polished Black 3
+    3300030: Chrome - Polished Black 4
+    3300032: Chrome - Polished Black 5
+    3300034: Clear - Amber
+    3300036: Clear - Amber 1
+    3300038: Clear - Amber 2
+    3300040: Clear - Amber 3
+    3300042: Clear - Amber 4
+    3300044: Cool White
+    3300046: Cool White 1
+    3300048: Cool White 2
+    3300050: Cool White 3
+    3300052: Cool White 4
+    3300054: Cool White 5
+    3300056: Cool White 6
+    3300058: Cool White 7
+    3300060: Cool White 8
+    3300062: Cyan
+    3300064: Dark Gray
+    3300066: Dark Gray 1
+    3300068: Dark Gray 2
+    3300070: Default
+    3300072: Default 1
+    3300074: Default 2
+    3300076: Default 3
+    3300078: Default 4
+    3300080: Default 5
+    3300082: Default 6
+    3300084: Default 7
+    3300086: Default 8
+    3300088: Default 9
+    3300090: Diamond Plate_02
+    3300092: Diamond Plate_02 1
+    3300094: Diamond Plate_02 2
+    3300096: Diamond Plate_02 3
+    3300098: Engine Turned
+    3300100: Flaked Satin - Blue
+    3300102: Floor_EAB72EDE-BFDA-428F-9704-166BA2380A60.ipt
+    3300104: Glossy - Black
+    3300106: Glossy - Black 1
+    3300108: Glossy - Black 2
+    3300110: Glossy - Black 3
+    3300112: Glossy - Black 4
+    3300114: Glossy - Black 5
+    3300116: Glossy - Black 6
+    3300118: Glossy - Black 7
+    3300120: Glossy - Black 8
+    3300122: Green (Clear)
+    3300124: Green (Clear) 1
+    3300126: Green (Clear) 2
+    3300128: Green (Clear) 3
+    3300130: Light Steel Blue
+    3300132: Light Steel Blue 1
+    3300134: Light Steel Blue 2
+    3300136: Light Steel Blue 3
+    3300138: Light Steel Blue 4
+    3300140: Metal 1600F Hot
+    3300142: Metal-1800F Hot
+    3300144: Metal-Steel (Machined_00)
+    3300146: No Tint
+    3300148: No Tint 1
+    3300150: Pallet
+    3300152: Pallet 1
+    3300154: Plastic (Black)
+    3300156: Plastic (Black) 1
+    3300158: Plastic (White)
+    3300160: Polished - Brushed Heavy - Version 1.1
+    3300162: Polished - Brushed Heavy - Version 1.1 1
+    3300164: Polycarbonate - Clear
+    3300166: Polycarbonate - Clear 1
+    3300168: Polycarbonate - Clear 2
+    3300170: Red
+    3300172: Red 1
+    3300174: Red 2
+    3300176: Red 3
+    3300178: Sink
+    3300180: Sky Blue Dark
+    3300182: Sky Blue Dark 1
+    3300184: Sky Blue Dark 2
+    3300186: Sky Blue Dark 3
+    3300188: Smooth - Dark Gray-1-1-1
+    3300190: Smooth - Dark Gray-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+    3300192: Snow
+    3300194: Stainless - Satin Coarse Screen
+    3300196: Stainless - Satin Coarse Screen 1
+    3300198: Stainless - Satin Coarse Screen 2
+    3300200: Steel
+    3300202: Steel 1
+    3300204: Steel 2
+    3300206: Steel 3
+    3300208: Steel 4
+    3300210: Steel 5
+    3300212: Steel 6
+    3300214: Steel 7
+    3300216: Steel 8
+    3300218: Wall
+    3300220: Wall (Left)
+    3300222: Wall (Left) 1
+    3300224: Wall (Right)
+    3300226: Wall (Right) 1
+    3300228: Wall (Window)
+    3300230: Wall 1
+    3300232: Wall 10
+    3300234: Wall 11
+    3300236: Wall 12
+    3300238: Wall 13
+    3300240: Wall 14
+    3300242: Wall 15
+    3300244: Wall 16
+    3300246: Wall 17
+    3300248: Wall 18
+    3300250: Wall 19
+    3300252: Wall 2
+    3300254: Wall 20
+    3300256: Wall 21
+    3300258: Wall 3
+    3300260: Wall 4
+    3300262: Wall 5
+    3300264: Wall 6
+    3300266: Wall 7
+    3300268: Wall 8
+    3300270: Wall 9
+    3300272: Wood (Pine)
+    3300274: Wood (Pine) 1
+    3300276: Yellow
+    3300278: Yellow 1
+    3300280: Yellow 2
+    3300282: Yellow 3
+    3300284: Yellow 4
+    3300286: Zinc
+    4300000: Floor_EAB72EDE-BFDA-428F-9704-166BA2380A60.ipt
+    4300002: Pallet
+    4300004: Pallet
+    4300006: Aluminum - Polished
+    4300008: Diamond Plate_02
+    4300010: Green (Clear)
+    4300012: Polished - Brushed Heavy - Version 1.1
+    4300014: Sky Blue Dark
+    4300016: Yellow
+    4300018: Aluminum - Polished
+    4300020: Diamond Plate_02
+    4300022: Green (Clear)
+    4300024: Sky Blue Dark
+    4300026: Stainless - Satin Coarse Screen
+    4300028: Yellow
+    4300030: Aluminum - Polished
+    4300032: Diamond Plate_02
+    4300034: Green (Clear)
+    4300036: Sky Blue Dark
+    4300038: Stainless - Satin Coarse Screen
+    4300040: Yellow
+    4300042: Diamond Plate_02
+    4300044: Green (Clear)
+    4300046: Sky Blue Dark
+    4300048: Smooth - Dark Gray-1-1-1
+    4300050: Stainless - Satin Coarse Screen
+    4300052: Yellow
+    4300054: Canary
+    4300056: Clear - Amber
+    4300058: Default
+    4300060: Steel
+    4300062: Default
+    4300064: Clear - Amber
+    4300066: Steel
+    4300068: Default
+    4300070: Canary
+    4300072: Clear - Amber
+    4300074: Default
+    4300076: Steel
+    4300078: Default
+    4300080: Clear - Amber
+    4300082: Steel
+    4300084: Default
+    4300086: Clear - Amber
+    4300088: Steel
+    4300090: Default
+    4300092: Glossy - Black
+    4300094: Glossy - Black
+    4300096: Snow
+    4300098: Steel
+    4300100: Flaked Satin - Blue
+    4300102: Red
+    4300104: Cardboard
+    4300106: Cardboard
+    4300108: Plastic (White)
+    4300110: Cool White
+    4300112: Dark Gray
+    4300114: Glossy - Black
+    4300116: Steel
+    4300118: Cool White
+    4300120: Default
+    4300122: Steel
+    4300124: Aluminum - Dark
+    4300126: Chrome - Polished Black
+    4300128: Cyan
+    4300130: Default
+    4300132: Glossy - Black
+    4300134: Glossy - Black
+    4300136: Metal-Steel (Machined_00)
+    4300138: Plastic (Black)
+    4300140: Polished - Brushed Heavy - Version 1.1
+    4300142: Smooth - Dark Gray-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+    4300144: Zinc
+    4300146: Chrome - Polished
+    4300148: Yellow
+    4300150: Dark Gray
+    4300152: Polycarbonate - Clear
+    4300154: Red
+    4300156: Dark Gray
+    4300158: Default
+    4300160: Polycarbonate - Clear
+    4300162: Red
+    4300164: Polycarbonate - Clear
+    4300166: Chrome - Polished
+    4300168: Glossy - Black
+    4300170: Plastic (Black)
+    4300172: Red
+    4300174: Steel
+    4300176: Wall (Right)
+    4300178: Wall
+    4300180: Wall
+    4300182: Wall
+    4300184: Wall
+    4300186: Wall
+    4300188: Wall
+    4300190: Wall (Left)
+    4300192: Wall
+    4300194: Wall
+    4300196: Wall
+    4300198: Wall
+    4300200: Wall
+    4300202: Wall (Left)
+    4300204: Wall
+    4300206: Wall
+    4300208: Wall
+    4300210: Wall
+    4300212: Wall
+    4300214: Wall
+    4300216: Wall
+    4300218: Wall
+    4300220: Wall
+    4300222: Wall
+    4300224: Wall
+    4300226: Wall (Right)
+    4300228: Light Steel Blue
+    4300230: Glossy - Black
+    4300232: Light Steel Blue
+    4300234: No Tint
+    4300236: Glossy - Black
+    4300238: Light Steel Blue
+    4300240: Metal 1600F Hot
+    4300242: No Tint
+    4300244: Light Steel Blue
+    4300246: Cool White
+    4300248: Wood (Pine)
+    4300250: Cool White
+    4300252: Wood (Pine)
+    4300254: Wall (Window)
+    4300256: Cool White
+    4300258: Cool White
+    4300260: Chrome - Polished Black
+    4300262: Sink
+    4300264: Cool White
+    4300266: Chrome - Polished Black
+    4300268: Cool White
+    4300270: Chrome - Polished Black
+    4300272: Cool White
+    4300274: Chrome - Polished Black
+    4300276: Blue (Sky - Bright)
+    4300278: Light Steel Blue
+    4300280: Metal-1800F Hot
+    4300282: Glossy - Black
+    4300284: Engine Turned
+    4300286: Chrome - Polished Black
+    6000828045688606266: Default Camera
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
