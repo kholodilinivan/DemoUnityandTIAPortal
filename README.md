@@ -31,3 +31,9 @@ TIA Portal project: S7netTiaProject(RobotControl) \
 Video explanations in English - https://youtu.be/VBjyALB6ywI \
 Video explanations in Russian -  https://youtu.be/hvRAHoECfuE \
 ![Asset 4](https://user-images.githubusercontent.com/34764174/215308434-1791aad0-e587-4ad0-aec7-dee78c11057b.png)
+
+- Heating Conveyor Control \
+This scene contains Heating Conveyor which can be controlled by TIA Portal. Project link: https://github.com/kholodilinivan/HeatingConveyor \
+Video explanations in English - https://youtu.be/feG7KCgTxvI \
+Video explanations in Russian -  https://youtu.be/lMNJxYVAa8M \
+![Asset 5](https://user-images.githubusercontent.com/34764174/215320179-f9d2fc4b-c90a-47ab-a38f-224088ace105.png)
