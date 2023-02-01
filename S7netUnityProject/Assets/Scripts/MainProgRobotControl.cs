@@ -45,11 +45,11 @@ public class MainProgRobotControl : MonoBehaviour
         if (db1Bool1 == true) InstantiateRed(0, redMemory);
 
         bool db1Bool2 = (bool)plc.Read("DB1.DBX0.7"); // green cube
-        if (db1Bool1 == false) greenMemory = greenMemory * 0;
+        if (db1Bool2 == false) greenMemory = greenMemory * 0;
         if (db1Bool2 == true) InstantiateGreen(0, greenMemory);
 
         bool db1Bool3 = (bool)plc.Read("DB1.DBX1.0"); // blue cube
-        if (db1Bool1 == false) blueMemory = blueMemory * 0;
+        if (db1Bool3 == false) blueMemory = blueMemory * 0;
         if (db1Bool3 == true) InstantiateBlue(0, blueMemory);
 
         bool db1Bool4 = (bool)plc.Read("DB1.DBX1.4"); // conveyor
