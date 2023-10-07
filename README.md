@@ -34,6 +34,8 @@ Video explanations in Russian -  https://youtu.be/hvRAHoECfuE \
 
 - Heating Conveyor Control \
 This scene contains Heating Conveyor which can be controlled by TIA Portal. Project link: https://github.com/kholodilinivan/HeatingConveyor \
-Video explanations in English - https://youtu.be/feG7KCgTxvI \
-Video explanations in Russian -  https://youtu.be/lMNJxYVAa8M \
+Video explanations in English (Short) - https://youtu.be/feG7KCgTxvI \
+Video explanations in English (Project Settings Video) - https://youtu.be/QnXfoWlMzI0 \
+Video explanations in Russian (Short) -  https://youtu.be/hvRAHoECfuE \
+Video explanations in Russian (Project Settings Video) - https://youtu.be/a7HDqWfAOXY \
 ![Asset 5](https://user-images.githubusercontent.com/34764174/215320179-f9d2fc4b-c90a-47ab-a38f-224088ace105.png)
