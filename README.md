@@ -1,4 +1,7 @@
 # DemoUnityandTIAPortal
+If these files were useful, consider citation: \
+`L. Kunzhe and I. Kholodilin, "Developing Virtual Laboratories for Understanding the Automation Course," 2023 Seminar on Electrical Engineering, Automation & Control Systems, Theory and Practical Applications (EEACS), Saint Petersburg, Russian Federation, 2023, pp. 208-213, doi: 10.1109/EEACS60421.2023.10397226.` \
+\
 This repository demonstrates communication between Unity 2020.3.15f2 and TIA Portal V16 by S7NetPlus library with several examples: 
 - Bulbs Control \
 This scene contains 6 bulbs which can be controlled by TIA Portal with discrete and analog signals. Corresponding folders: \
