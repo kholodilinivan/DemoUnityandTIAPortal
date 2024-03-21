@@ -1,7 +1,16 @@
 # DemoUnityandTIAPortal
 If these files were useful, consider citation: \
-`L. Kunzhe and I. Kholodilin, "Developing Virtual Laboratories for Understanding the Automation Course," 2023 Seminar on Electrical Engineering, Automation & Control Systems, Theory and Practical Applications (EEACS), Saint Petersburg, Russian Federation, 2023, pp. 208-213, doi: 10.1109/EEACS60421.2023.10397226.` \
-\
+`L. Kunzhe and I. Kholodilin, "Developing Virtual Laboratories for Understanding the Automation Course," 2023 Seminar on Electrical Engineering, Automation & Control Systems, Theory and Practical Applications (EEACS), Saint Petersburg, Russian Federation, 2023, pp. 208-213, doi: 10.1109/EEACS60421.2023.10397226.` 
+
+# Udemy course
+Step by Step explanations on how to create your project with Unity and control it with TIA Portal: 
+- Unity and TIA Portal - Conveyor Basics \
+Here it is explained how to control coveyor with discrete signals (butttons, sensors, conveyor start/stop) and also with analog signals (slider, speed control and speed indication): \
+Demo video - https://youtu.be/66GHr7E2j2s \
+Udemy page - https://www.udemy.com/course/connect-unity-and-tia-portal-with-s7netplus-library \
+![image](https://github.com/kholodilinivan/DemoUnityandTIAPortal/assets/34764174/949a87c8-5c72-49dd-84a6-2cfe2d2225c0)
+
+# Free YouTube Course
 This repository demonstrates communication between Unity 2020.3.15f2 and TIA Portal V16 by S7NetPlus library with several examples: 
 - Bulbs Control \
 This scene contains 6 bulbs which can be controlled by TIA Portal with discrete and analog signals. Corresponding folders: \
