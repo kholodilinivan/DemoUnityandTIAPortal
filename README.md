@@ -9,6 +9,11 @@ Here it is explained how to control coveyor with discrete signals (butttons, sen
 Demo video - https://youtu.be/66GHr7E2j2s \
 Udemy page - https://www.udemy.com/course/connect-unity-and-tia-portal-with-s7netplus-library \
 ![image](https://github.com/kholodilinivan/DemoUnityandTIAPortal/assets/34764174/949a87c8-5c72-49dd-84a6-2cfe2d2225c0)
+- Unity and TIA Portal - Sorting Metal & Non Metal Objects \
+Here it is explained how to sort Metal and Non Metal objects (detect with the capacitive sensor and sort with the actuator): \
+Demo video - https://youtu.be/bC-mD38XiEs \
+Udemy page - https://www.udemy.com/course/connect-unity-and-tia-portal-with-s7netplus-library \
+![image](https://github.com/kholodilinivan/DemoUnityandTIAPortal/assets/34764174/7ad48e0e-5f83-42c9-8050-67351f05c2e0)
 
 # Free YouTube Course
 This repository demonstrates communication between Unity 2020.3.15f2 and TIA Portal V16 by S7NetPlus library with several examples: 
