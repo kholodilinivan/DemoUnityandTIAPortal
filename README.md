@@ -14,6 +14,12 @@ Here it is explained how to sort Metal and Non Metal objects (detect with the ca
 Demo video - https://youtu.be/bC-mD38XiEs \
 Udemy page - https://www.udemy.com/course/connect-unity-and-tia-portal-with-s7netplus-library \
 ![image](https://github.com/kholodilinivan/DemoUnityandTIAPortal/assets/34764174/7ad48e0e-5f83-42c9-8050-67351f05c2e0)
+- Unity and TIA Portal - Robot Arm Control \
+Here it is explained how to add your robot arm to unity, how to calculate inverse kinematics and how to control it from TIA Portal: \
+Demo video - https://youtu.be/l9H_YWyowXM \
+Udemy page - https://www.udemy.com/course/connect-unity-and-tia-portal-with-s7netplus-library \
+![image](https://github.com/user-attachments/assets/a4531571-59cb-443e-9c65-5eccb36b9200)
+
 
 # Free YouTube Course
 This repository demonstrates communication between Unity 2020.3.15f2 and TIA Portal V16 by S7NetPlus library with several examples: 
