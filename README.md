@@ -56,9 +56,23 @@ Video explanations in Russian -  https://youtu.be/hvRAHoECfuE \
 ![Asset 4](https://user-images.githubusercontent.com/34764174/215308434-1791aad0-e587-4ad0-aec7-dee78c11057b.png)
 
 - Heating Conveyor Control \
-This scene contains Heating Conveyor which can be controlled by TIA Portal. Project link: https://github.com/kholodilinivan/HeatingConveyor \
+This scene contains Heating Conveyor which can be controlled by TIA Portal. Project link: \
+https://github.com/kholodilinivan/HeatingConveyor \
+\
 Video explanations in English (Short) - https://youtu.be/feG7KCgTxvI \
 Video explanations in English (Project Settings Video) - https://youtu.be/QnXfoWlMzI0 \
 Video explanations in Russian (Short) -  https://youtu.be/hvRAHoECfuE \
 Video explanations in Russian (Project Settings Video) - https://youtu.be/a7HDqWfAOXY \
 ![Asset 5](https://user-images.githubusercontent.com/34764174/215320179-f9d2fc4b-c90a-47ab-a38f-224088ace105.png)
+
+- Kuka Digital Twin \
+This scene contains Robot Arm KUKA which can be controlled by TIA Portal. Project link: \
+https://github.com/kholodilinivan/Kuka-Digital-Twin-With-Unity-and-TIA-Portal \
+\
+First demo video - https://youtu.be/AGu0l6k7Z1o \
+How to test project - https://youtu.be/7gZlk_7qvO0 \
+Kinematics of the robot - https://youtu.be/0TYI-GHHk20 \
+Communication between Unity and TIA Portal - https://youtu.be/wGno6v4cYvk \
+Updates (added command - robot stop) - https://youtu.be/h8uZ9vctAsk \
+EE position - https://youtu.be/3zol_8kC0tU \
+![Asset 6](https://github.com/kholodilinivan/Kuka-Digital-Twin-With-Unity-and-TIA-Portal/assets/34764174/2d14943f-9381-480c-9f30-44db5c413415.png)
